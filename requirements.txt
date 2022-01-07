@@ -17,7 +17,7 @@ quandl==3.4.4
 beautifulsoup4==4.6.3
 mockito==1.1.1
 xarray==0.11.0
-cvxopt==1.2.2
+cvxopt==1.2.7
 requests==2.21.0
 Pillow==5.4.1         # Sustitute for PIL library
 patsy==0.5.1          # necessary for statsmodels to work properly
